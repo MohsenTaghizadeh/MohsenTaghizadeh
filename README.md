@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
 
 ### Back-End
-![Asp .Net](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
+![Asp .Net](https://img.shields.io/badge/-dotnet?style=flat-square&logo=.net&logoColor=white&label=.NET&labelColor=%23512BD4&color=%23512BD4)
 ![Asp .Net Core](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)
 
 
