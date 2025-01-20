@@ -6,7 +6,10 @@
 
 ### Back-End
 ![Asp .Net Core](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=white)
-![Asp .Net Core](https://img.shields.io/badge/-SQL%20Server-cc0000?style=for-the-badge&logo=Microsoft&logoColor=white)
+
+### Database
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
