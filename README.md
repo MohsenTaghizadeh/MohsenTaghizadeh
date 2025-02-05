@@ -27,5 +27,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsenTaghizadeh&show_icons=true&theme=radical)
 
 ## Connect with me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Mohsen Taghizadeh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohsentaghizadeh)
 
