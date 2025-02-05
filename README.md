@@ -24,5 +24,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsenTaghizadeh&show_icons=true&theme=radical&exclude=C)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsenTaghizadeh&show_icons=true&theme=radical)
+
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Mohsen Taghizadeh)
 
