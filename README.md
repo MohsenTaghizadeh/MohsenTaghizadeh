@@ -22,8 +22,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsenTaghizadeh&show_icons=true&theme=radical)
-
-
